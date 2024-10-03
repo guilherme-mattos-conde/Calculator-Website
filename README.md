@@ -1,4 +1,4 @@
-<h1>URL-Shortener-WebSite | Welcome to my repository ✌</h1>
+<h1>Calculator-WebSite | Welcome to my repository ✌</h1>
 
 <p align="justify">In this repository I developed a Calculator Website using JavaScript.</p>
 <p> You can see the result by <a href="https://guilherme-mattos-conde.github.io/Calculator-Website/">clicking here</a>.</p>
